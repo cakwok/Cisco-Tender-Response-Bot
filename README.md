@@ -1,3 +1,6 @@
+Introduction
+------------
+
 TenderBot 1.0 - Casca Kwok
 
 The bot is built in an aim to automate TCP/IP networking tendor response process, to enhance efficiency
