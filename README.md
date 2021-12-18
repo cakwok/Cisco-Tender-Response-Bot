@@ -21,4 +21,5 @@ inventory = ["Cisco 9400 C9400-SUP-1XL-Y", "Cisco Catalyst 9600 Series Superviso
 
 
 SearchString = self.model.replace(" ", "+") + "+temperature"  to
+
 SearchString = self.model.replace(" ", "+") + "+mtbf"
