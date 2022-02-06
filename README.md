@@ -8,11 +8,9 @@ from searching tendor parameters, just by input network equipment model into a l
 
 TenderBot 1.0 supports information returned by .html format
 
-Operation Manual
+Setup
 ----------------
-1. Modify the inventory list at
-
-eg, adding a new inventory from
+Edit inventory at the inventory list.  eg, To add a new inventory, append the model to the list.
 
 ```
 inventory = ["Cisco 9400 C9400-SUP-1XL-Y", "Cisco Catalyst 9600 Series Supervisor Engine 1", "Cisco 9800-80",
@@ -23,7 +21,7 @@ to
 inventory = ["Cisco 9400 C9400-SUP-1XL-Y", "Cisco Catalyst 9600 Series Supervisor Engine 1", "Cisco 9800-80",
              "Cisco Nexus 9500", "Cisco NCS 5500", "Cisco IE4000"]
 ```
-2. Modify tendor parameter.  eg, changing this line from "temperature" to "mtbf", eg, changing
+Modify tendor parameter.  eg, edit this line from "temperature" to "mtbf"
 
 ```
 SearchString = self.model.replace(" ", "+") + "+temperature"  to
