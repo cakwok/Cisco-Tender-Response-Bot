@@ -3,10 +3,11 @@ Introduction
 
 TenderBot 1.0 - Casca Kwok
 
-The bot is built in an aim to automate TCP/IP networking tendor response process, to enhance efficiency
-from searching tendor parameters, just by input network equipment model into a list to save hours of effort!
+As part of network presales engineers daily life, during tender response days, we are used to spend  hours to dig out tendor parameters, responding physical dimensions/MTBF/ambience temperature/product weight, because there seems no automation tools and yet, each time the targeted equipment model/parameters required,  are not surprisingly in different combinations.  Thus, leveraging the hardwork before may not be good template for the next. Might be it's more straight forward if just google it again.  Might be if there's a tool to automate the web searching, life could be easier.
 
-TenderBot 1.0 supports information returned by .html format
+Therefore, TenderBot 1.0 was built.  It also helped me to build a dataset from sketch for vendor MTBF parameters with much more ease.
+
+TenderBot 1.0 supports information returned by .html format (pdf is not supported).
 
 Setup
 ----------------
