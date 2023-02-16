@@ -1,8 +1,5 @@
 Introduction
 ------------
-
-TenderBot 1.0 - Casca Kwok
-
 As part of network presales engineers daily life, we are used to spend hours to dig out proper responses in response to tendor parameters, such as routers  physical dimensions, MTBF, ambience temperature, etc. 
 
 In this work, a web scraper is built to seamless these parameter lookup, resultedly much faster response during tendor cycles.
